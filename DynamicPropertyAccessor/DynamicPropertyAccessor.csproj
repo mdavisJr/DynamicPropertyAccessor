@@ -4,12 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>DynamicPropertyAccessor</PackageId>
     <title>DynamicPropertyAccessor</title>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <Authors>mdavisJr</Authors>
     <Description>DynamicPropertyAccessor allows you to set and get property values dynamically without the performance penalty of Reflection.  DynamicPropertyAccessor performs around 300 to 400% faster than Reflection (please see performance test at project site).</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <licenseUrl>https://github.com/mdavisJr/DynamicPropertyAccessor/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/mdavisJr/DynamicPropertyAccessor</projectUrl>
+    <PackageLicenseUrl>https://github.com/mdavisJr/DynamicPropertyAccessor/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/mdavisJr/DynamicPropertyAccessor</PackageProjectUrl>
     <PackageReleaseNotes>Upgraded to .NET Standard 2.0</PackageReleaseNotes>
     <Copyright>Copyright 2017</Copyright>
     <PackageTags>reflection property dynamic</PackageTags>
